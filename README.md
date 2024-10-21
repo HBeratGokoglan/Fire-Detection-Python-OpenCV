@@ -19,7 +19,7 @@ This project is a **Fire and Smoke Detection System** developed using Python, Op
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/fire-detection-system.git
+    git clone https://github.com/yourusername/fire-detection-system.git](https://github.com/HBeratGokoglan/Fire-Detection-Python-OpenCV.git
     ```
 2. **Install the required Python packages**:
     ```bash
